@@ -1,0 +1,55 @@
+Fiefdom
+The player assumes the place of a lord of a fiefdom and tries to rise to control the kingdom.
+
+The town is presented in a 2d side view.
+The castle is in the center and the buildings around the outer sides.
+You can't go out too far past the edges of the castle until an upgrade is purchased/the forest is cleared of monsters.
+
+You build and upgrade buildings with the ultimate goal of becoming king of the fiefdoms.
+
+Once you raise to a high enough title you can call for a vote for the king and there will be one last election for the kingship.
+
+There is a high council that votes on matters and there votes can be swayed by influence of the fiefdoms.
+Each high councilor will be loyal to the one who holds the most sway with them. They count for a large vote.
+
+!!Stretch: Quests are given (AKA resources in certain time) to give boosts in standing, Also an option would be to have a blind bid for control.
+
+Some buildings in the fiefdoms will grant support from the people, they will act like votes during voting sessions.
+Proposals can be earned, crafted or bought. They are used to propose a vote for many different things.
+
+Some random item come up to be voted upon.
+
+!!Stretch: The items up for vote are build dynamically with how the players play.
+
+!!Stretch: Armies can be built to fight creatures and monsters that will open up the map. Can be sent out to fight for the kingdom and will earn revenue when it is done.
+
+!!Stretch: Council members will have a personality that will make them vote certain ways.
+
+
+
+Building Ideas
+
+Basic resource gathering buildings.
+|LV1 Farm|	->	[Food]
+			->	[Leather]
+
+|LV1 Query| ->	[Stone]	->	|StoneCutter|	->	[Cut Stone]
+
+|LV1 WoodC| ->	[Wood]	->	|Turnery| 		->	[Finished Wood]
+						->	|Burner|		->	[Charcoal]
+
+|LV1 Mine|	->	[Iron Ore]	->	|Smelter|	->	[Iron Ingot]
+				[^Charcoal]
+					
+
+
+					
+
+!!Stretch: Market is based on a global market and it will fluctuate based on what other player have bought/sold.
+
+
+
+
+Vote Actions
+Tax and market options
+Disable/Enable buildings/upgrades
